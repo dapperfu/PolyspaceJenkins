@@ -23,7 +23,3 @@
 
 - ✘ Liability
 - ✘ Warranty
-
-# Commercial Support
-
-[Contact me on Linked In](https://www.linkedin.com/in/jed-frey).
